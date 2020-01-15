@@ -1,0 +1,16 @@
+<Version Number="1.0.0" Big="false">
+  <file fpath="res/image/shop.png.bytes" size="10139" md5="BDAEA13307E6848A5C3257D77BBFAFF5" />
+  <file fpath="res/image/shop.png.bytes.manifest" size="335" md5="6A193EA7C2331CDCC8F7C0D684017DF0" />
+  <file fpath="res/image/ziti.png.bytes" size="25133" md5="9EE7B172334E3831600FA7EC57E52DAB" />
+  <file fpath="res/image/ziti.png.bytes.manifest" size="335" md5="833820F26E989091CB9A0014A4F17D01" />
+  <file fpath="res/materials/new material.mat.bytes" size="57697" md5="11ED9B6F723399194DC73E1F5C13A003" />
+  <file fpath="res/materials/new material.mat.bytes.manifest" size="487" md5="12212B986FA161E7B58B3699D9BD8A6C" />
+  <file fpath="res/prefabs/cube.prefab.bytes" size="1942" md5="61AF2DF58126BC3A2A8B7ED911D46B10" />
+  <file fpath="res/prefabs/cube.prefab.bytes.manifest" size="641" md5="ACDE5734D6EF02C1928E1617843F3AA6" />
+  <file fpath="res/scenes/lobby.unity.bytes" size="22703" md5="36C112B1A4C10E161255E45E4DC14AA5" />
+  <file fpath="res/scenes/lobby.unity.bytes.manifest" size="759" md5="70E50AA7652027C2A8B55864DDF66A78" />
+  <file fpath="assetbundles" size="1169" md5="E64C7D491DD3BE40E99CD3D725F9AE48" />
+  <file fpath="assetbundles.manifest" size="560" md5="5FF26C2F8A4E682F6BBD6C53508F4DB2" />
+  <file fpath="AssetInfo.bytes" size="400" md5="077D36C325A04760428983ADCD92978E" />
+  <file fpath="Resource.bytes" size="341" md5="0D1595AE73754B91B2EEDFDF0FDAF5BA" />
+</Version>
